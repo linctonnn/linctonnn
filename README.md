@@ -11,7 +11,4 @@ I'm new in coding stuff like that, i hope you'll guide me trough this process.
 
 You can contact me at [here via email](mailto:linn.cton@gmail.com)
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
-</picture>
+![Snake animation](https://raw.githubusercontent.com/linctonnn/linctonnn/output/github-contribution-grid-snake.svg)
